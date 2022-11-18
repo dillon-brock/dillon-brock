@@ -2,7 +2,15 @@ I am a math nerd and current student at Alchemy Code Lab, transitioning to full-
 
 ### Languages:
 - JavaScript
+- TypeScript
 - HTML/CSS
 - Java
 - C++
 - Max/MSP
+
+### Libraries/Frameworks:
+- React
+- Node.js
+- Express.js
+- p5.js
+- Sequelize
