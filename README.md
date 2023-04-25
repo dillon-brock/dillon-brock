@@ -5,7 +5,6 @@ I am a math nerd and current student at Alchemy Code Lab, transitioning to full-
 - TypeScript
 - HTML/CSS
 - Java
-- C++
 - Max/MSP
 
 ### Libraries/Frameworks:
