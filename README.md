@@ -9,6 +9,7 @@ I am a math nerd and current student at Alchemy Code Lab, transitioning to full-
 
 ### Libraries/Frameworks:
 - React
+- React Native
 - Node.js
 - Express.js
 - p5.js
